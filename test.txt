@@ -2,4 +2,5 @@ This is a test document.
 
 This is a new line.
 
+A new line.
 Added ha a new line
